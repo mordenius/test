@@ -1,0 +1,109 @@
+{
+    "dills": {
+        "1": {
+            "name": "Проект_1",
+            "time": "15:00",
+            "ParticipantsNAme": {
+                "Orishich Konstantin": {
+                    "url": "source/img/tasks/avatars/8.png"
+                },
+                "Petrov Aleksander": {
+                    "url": "source/img/tasks/avatars/4.png"
+                },
+                "Aleksander": {
+                    "url": "source/img/tasks/avatars/5.png"
+                },
+                "Gorbulenko Anna": {
+                    "url": "source/img/tasks/avatars/7.png"
+                }
+            }
+        },
+        "2": {
+            "name": "Проект_2",
+            "time": "14:00",
+            "ParticipantsNAme": {
+                "Orishich Konstantin": {
+                     "url": "source/img/tasks/avatars/8.png"
+                },
+                "Petrov Aleksander": {
+                    "url": "source/img/tasks/avatars/4.png"
+                },
+                "Gorbulenko Anna": {
+                    "url": "source/img/tasks/avatars/7.png"
+                }
+            }
+        },
+        "3": {
+            "name": "Проект_3",
+            "time": "11:00",
+            "ParticipantsNAme": {
+                "Orishich Konstantin": {
+                    "url": "source/img/tasks/avatars/8.png"
+                },
+                "Petrov Aleksander": {
+                   "url": "source/img/tasks/avatars/4.png"
+                },
+                "Gorbulenko Anna": {
+                    "url": "source/img/tasks/avatars/7.png"
+                }
+            }
+        },
+        "4": {
+            "name": "Проект_4",
+            "time": "12:00",
+            "ParticipantsNAme": {
+                "Orishich Konstantin": {
+                    "url": "source/img/tasks/avatars/8.png"
+                },
+                "Petrov Aleksander": {
+                    "url": "source/img/tasks/avatars/4.png"
+                },
+                "Gorbulenko Anna": {
+                     "url": "source/img/tasks/avatars/7.png"
+                }
+            }
+        },
+        "5": {
+            "name": "Проект_5",
+            "time": "16:00",
+            "ParticipantsNAme": {
+                "Orishich Konstantin": {
+                    "url": "source/img/tasks/avatars/8.png"
+                },
+                "Petrov Aleksander": {
+                     "url": "source/img/tasks/avatars/4.png"
+                },
+                "Gorbulenko Anna": {
+                    "url": "source/img/tasks/avatars/7.png"
+                }
+            }
+        },
+        "6": {
+            "name": "Проект_6",
+            "time": "17:00",
+            "ParticipantsNAme": {
+                 "Orishich Konstantin": {
+                    "url": "source/img/tasks/avatars/8.png"
+                },
+                "Petrov Aleksander": {
+                     "url": "source/img/tasks/avatars/4.png"
+                },
+                "Gorbulenko Anna": {
+                    "url": "source/img/tasks/avatars/7.png"
+                }
+            }
+        },
+        "7": {
+            "name": "Проект_7",
+            "time": "2:00",
+            "ParticipantsNAme": {
+                 "Orishich Konstantin": {
+                    "url": "source/img/tasks/avatars/8.png"
+                },
+                "Petrov Aleksander": {
+                     "url": "source/img/tasks/avatars/4.png"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   
+   <url>
+      <loc>http://kvinto.com.ua/</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1</priority>
+   </url>
+
+
+
+
+  <url>
+      <loc>http://kvinto.com.ua/?ru&amp;home</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1</priority>
+   </url>
+
+  <url>
+      <loc>http://kvinto.com.ua/?ru&amp;works</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+
+   <url>
+      <loc>http://kvinto.com.ua/?ru&amp;company</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+   </url>
+
+
+  <url>
+      <loc>http://kvinto.com.ua/?ru&amp;cases</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+   </url>
+
+  <url>
+      <loc>http://kvinto.com.ua/?ru&amp;casesCinema</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.3</priority>
+   </url>
+
+
+  <url>
+      <loc>http://kvinto.com.ua/?ru&amp;casesNeastle</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.3</priority>
+   </url>
+
+  <url>
+      <loc>http://kvinto.com.ua/?ru&amp;casesLagarto</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.3</priority>
+   </url>
+
+  <url>
+      <loc>http://kvinto.com.ua/?ru&amp;casesBurgerGrill</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.3</priority>
+   </url>
+
+  <url>
+      <loc>http://kvinto.com.ua/?ru&amp;casesTakIBulo</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.3</priority>
+   </url>
+
+ <url>
+      <loc>http://kvinto.com.ua/?ru&amp;casesOilStation</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.3</priority>
+   </url>
+
+ <url>
+      <loc>http://kvinto.com.ua/?ru&amp;news</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+   </url>
+
+ <url>
+      <loc>http://kvinto.com.ua/?ru&amp;newsInterTable</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+   </url>
+
+ <url>
+      <loc>http://kvinto.com.ua/?ru&amp;newsGrillBurger</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   
+  <url>
+      <loc>http://kvinto.com.ua/?ru&amp;newsISE</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   
+  <url>
+      <loc>http://kvinto.com.ua/?ru&amp;newsWebOpen</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+	
+	
+
+   <url>
+      <loc>http://kvinto.com.ua/?en&amp;home</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1</priority>
+   </url>
+
+
+  <url>
+      <loc>http://kvinto.com.ua/?en&amp;works</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+
+  <url>
+      <loc>http://kvinto.com.ua/?en&amp;company</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+   </url>
+
+
+  <url>
+      <loc>http://kvinto.com.ua/?en&amp;cases</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+   </url>
+
+  <url>
+      <loc>http://kvinto.com.ua/?en&amp;casesCinema</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.3</priority>
+   </url>
+
+
+  <url>
+      <loc>http://kvinto.com.ua/?en&amp;casesNeastle</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.3</priority>
+   </url>
+
+  <url>
+      <loc>http://kvinto.com.ua/?en&amp;casesLagarto</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.3</priority>
+   </url>
+
+  <url>
+      <loc>http://kvinto.com.ua/?en&amp;casesBurgerGrill</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.3</priority>
+   </url>
+
+  <url>
+      <loc>http://kvinto.com.ua/?en&amp;casesTakIBulo</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.3</priority>
+   </url>
+
+ <url>
+      <loc>http://kvinto.com.ua/?en&amp;casesOilStation</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.3</priority>
+   </url>
+
+ <url>
+      <loc>http://kvinto.com.ua/?en&amp;news</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+   </url>
+
+ <url>
+      <loc>http://kvinto.com.ua/?en&amp;newsInterTable</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+   </url>
+
+ <url>
+      <loc>http://kvinto.com.ua/?en&amp;newsGrillBurger</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   
+  <url>
+      <loc>http://kvinto.com.ua/?en&amp;newsISE</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   
+   <url>
+      <loc>http://kvinto.com.ua/?en&amp;newsWebOpen</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+	
+	
+
+   
+  <url>
+      <loc>http://kvinto.com.ua/?ua&amp;home/</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1</priority>
+   </url>
+
+  <url>
+      <loc>http://kvinto.com.ua/?ua&amp;works</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+
+
+  <url>
+      <loc>http://kvinto.com.ua/?ua&amp;company</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
+   </url>
+
+
+  <url>
+      <loc>http://kvinto.com.ua/?ua&amp;cases</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+   </url>
+
+  <url>
+      <loc>http://kvinto.com.ua/?ua&amp;casesCinema</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.3</priority>
+   </url>
+
+
+  <url>
+      <loc>http://kvinto.com.ua/?ua&amp;casesNeastle</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.3</priority>
+   </url>
+   
+  <url>
+      <loc>http://kvinto.com.ua/?ua&amp;casesLagarto</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.3</priority>
+   </url>
+
+  <url>
+      <loc>http://kvinto.com.ua/?ua&amp;casesBurgerGrill</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.3</priority>
+   </url>
+
+  <url>
+      <loc>http://kvinto.com.ua/?ua&amp;casesTakIBulo</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.3</priority>
+   </url>
+
+ <url>
+      <loc>http://kvinto.com.ua/?ua&amp;casesOilStation</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+  	  <priority>0.3</priority>
+ </url>
+  
+   <url>
+      <loc>http://kvinto.com.ua/?ua&amp;news</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+   </url>
+
+ <url>
+      <loc>http://kvinto.com.ua/?ua&amp;newsInterTable</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+   </url>
+
+ <url>
+      <loc>http://kvinto.com.ua/?ua&amp;newsGrillBurger</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   
+  <url>
+      <loc>http://kvinto.com.ua/?ua&amp;newsISE</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+   </url>
+   
+   <url>
+      <loc>http://kvinto.com.ua/?ua&amp;newsWebOpen</loc>
+      <lastmod>2015-09-28</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+	
+</urlset>

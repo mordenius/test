@@ -1,0 +1,398 @@
+@import url('fonts/fonts.css');
+html, body {
+	padding: 0;
+	margin: 0;
+}
+body {
+	background: #212121;
+	font-family: 'Exo2-LightCondensed';
+	color: #fff;
+	overflow: hidden;
+}
+.clearfix {
+	clear: both;
+}
+.none {
+	dispay: none;
+}
+
+
+header {
+	width: 2836px;
+	height: 191px;
+	background: url(../img/bg-header.png) 100% 50% no-repeat;
+	margin: 0 0 0 1362px;
+	position: absolute;
+	padding: 0 100px 70px 100px;
+	text-align: center;
+}
+header img {
+	float: left;
+	margin: 30px 0;
+}
+header h1 {
+	margin: 0 auto;
+	text-transform: uppercase;
+	font: 150px/175px 'Exo2-RegularCondensed';
+	width: 1920px;
+}
+header div.date {
+	overflow: hidden;
+	height: 200px;
+	width: 450px;
+	float: right;
+}
+header div.date-wrapper {
+	float: right;
+	text-align: left;
+}
+header div.date-wrapper h2 {
+	font: 200px/221px 'MyriadPro-BoldCond';
+	margin: 0;
+}
+header div.date-wrapper h3 {
+	font: 120px/160px 'Exo2-LightCondensed';
+	margin: 0;	
+}
+header div.date-wrapper h3 span {
+	font-size: 90px;
+}
+
+div.wrapper-rss {
+	width: 5760px;
+	height: 80px;
+	background: #fff;
+	position: absolute;
+	z-index: -1;
+	margin: 200px 0 0 0;
+}
+div.wrapper-rss marquee {
+	font-size: 70px;
+	margin: -8px 0 0 0;
+	color: #000;
+}
+/*
+	Weather ---
+*/
+div.weather-wrapper {
+	float: right;
+	width: 400px;
+	height: 1060px;
+	background: url(../img/bg-weather.png) 100% 50% no-repeat;
+	padding: 20px 30px 0 120px;
+}
+div.weather-wrapper .today {
+	display: inline-block;
+}
+div.weather-wrapper .today img {
+	float: right;
+}
+div.weather-wrapper .today h1 {
+	font: 165px/220px 'MyriadPro-BoldCond';
+	margin: 0;
+	float: left;
+}
+div.weather-wrapper .tomorrow, div.weather-wrapper .next {
+	margin: 20px 0 0 0;
+}
+div.weather-wrapper .tomorrow > h1, div.weather-wrapper .next > h1 {
+	font: 55px/55px 'Exo2-LightCondensed';
+	margin: 0;
+}
+div.weather-wrapper .tomorrow div, div.weather-wrapper .next div {
+	width: 50%;
+	float: left;
+}
+div.weather-wrapper .tomorrow div img, div.weather-wrapper .next div img {
+	width: 180px;
+	margin: -30px 0 0 0;
+}
+div.weather-wrapper .tomorrow div p, div.weather-wrapper .next div p {
+	font: 40px/45px 'Exo2-LightCondensed';
+	width: 100px;
+	margin: 0;
+}
+div.weather-wrapper .tomorrow div h1, div.weather-wrapper .next div h1 {
+	font: 100px/130px 'MyriadPro-BoldCond';
+	width: 100px;
+	margin: 0;
+}
+
+/*
+	Rates ---
+*/
+div.rates-wrapper {
+	right: 485px;
+	position: absolute;
+}
+div.rates-wrapper > div {
+	float: left;
+	width: 260px;
+	padding: 10px 30px 0 20px;
+}
+div.rates-wrapper > div h1 {
+	font: 75px/75px 'Exo2-RegularCondensed';	
+	margin: 0;
+	float: left;
+}
+div.rates-wrapper > div h2 {
+	font: 104px/85px 'Exo2-ThinCondensed';
+	margin: 0;		
+}
+div.rates-wrapper > div p {
+	padding: 20px 0 0 20px;
+	font: 41px/41px 'Exo2-ThinCondensed';	
+	margin: 13px 0 0 0;
+	float: left;
+}
+
+/*
+	Events ---
+*/
+div.events-wrapper {
+	z-index: -1;
+	position: relative;
+	margin: 280px -90px 0 0;
+	float: right;
+	width: 370px;
+	height: 800px;
+	background: url(../img/bg-events.png) 100% 50% no-repeat;
+	padding: 0 0 0 75px;
+}
+div.events-wrapper h2 {
+	font: 42px/75px 'Exo2-LightCondensed';
+	margin: 50px 0 0 0;
+	padding-bottom: 10px;
+}
+
+ul {
+    position: relative;
+    top: -32px;
+    margin: 0 auto;
+    padding: 0 0 0 0;
+}
+
+  ul > li {
+	width:inherit;
+	height:197px;
+	margin: 0 auto;
+	padding: 0 0 0 0;
+	list-style:none;
+	text-align:left;
+	background-position: -1% 3%;
+}
+
+  ul > li > div {
+	width: 400px;
+	height: 50px;
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+	position:relative;
+	right:-90px;
+}
+
+
+  ul > li > div > img {
+	position: relative;
+	
+}
+
+
+  ul > li:nth-child(1) {
+    background-image:url(../img/pin_red.png);
+	background-repeat:no-repeat;
+	
+}
+
+  ul > li:nth-child(2) {
+	background-image:url(../img/pin_yelov.png);
+	background-repeat:no-repeat;
+}
+
+
+  ul > li:nth-child(3) {
+	background-image:url(../img/pin_grean.png);
+	background-repeat:no-repeat;
+}
+
+ .events-wrapper >  ul > li > p {
+	  margin: 0 auto;
+	  padding-bottom: 14px;
+	  font-size:41px;
+	  padding-left: 94px;
+}
+
+
+img {
+	position: relative;
+}
+ul > li > img:nth-child(1) {
+	padding-left: 110px;
+}
+
+
+
+  ul > li > h1 {
+    font-family:Exo2-ThinCondensed; 
+  	font-size:33px;
+    padding-left: 88px;
+}
+
+
+
+
+/*
+	Tasks ---
+*/
+#tasks {
+	font-family: 'Exo 2', sans-serif;
+	background-color: #212121;
+	padding: 0;
+	background: url(../img/tasks/bg.jpg) no-repeat;
+	color: #fff;
+	height: 880px;
+	overflow: hidden;
+	width: 1920px;
+	position: absolute;
+	bottom: 0;
+	left: 1920px;
+}
+#tasks h1 {
+	font-size: 55px;
+	line-height: 50px;
+}
+#tasks .wrap-first-line, #tasks .wrap-second-line, #tasks .wrap-third-line {
+	height: 880px;
+	float: left;
+	width: 640px;
+	position:absolute;
+	top: 0;
+}
+#tasks > div:nth-child(2), #tasks > div:nth-child(5), #tasks > div:nth-child(8){
+	left: 640px;
+}
+#tasks > div:nth-child(3), #tasks > div:nth-child(6), #tasks > div:nth-child(9){
+	left: 1280px;
+}
+#tasks .wrap-second-line, #tasks .wrap-third-line {
+	opacity: 0;
+}
+#tasks .name {
+	height: 112px;
+	color: #fff;
+}
+#tasks .name img {
+	float: left;
+	  margin: -10px 20px 0 20px;
+}
+#tasks .name h1 {
+	margin: 35px 0 0 0;
+}
+#tasks .name h2 {
+	margin: 0px;
+}
+#tasks .list {
+	overflow: hidden;
+	height: 725px;
+	padding: 40px 40px 0 40px;
+}
+#tasks .tasks-list {
+	margin: 0 0 50px 0;
+}
+#tasks .tasks-list div:nth-child(1) {
+	float: left;
+	width: 75px;
+	font-size: 45px;
+}
+#tasks .tasks-list div:nth-child(2) {
+	float: left;
+	width: 485px;
+}
+#tasks .tasks-list div:nth-child(2) h2 {
+	margin: 0;
+	font-size: 30px;
+	color: rgb(189, 95, 255);
+}
+#tasks .tasks-list div:nth-child(2) h3 {
+	margin: 0;
+	font-size: 45px;
+}
+
+/*PlayList*/
+
+.PlayList {
+	margin: 0;
+	padding: 0 0 0 0;
+	width:1372px;
+	height:787px;
+	position:absolute;
+	z-index:5;
+	top: 302px;
+	left: 515px;
+}
+
+
+
+
+/*
+	Digital Review ---
+*/
+.review-wrapper {
+	padding: 0;
+	margin: 0;
+	background: url('../img/bg-DS-Review.jpg') no-repeat;
+	padding: 200px 0 0 0;
+	float: left;
+	position: absolute;
+	width: 600px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+.mask{
+	width:480px;
+	height:196px;
+	overflow:hidden;
+	background:#212121;
+	position:relative;
+	top:-200px;
+	z-index:5;
+	background-image: url(../img/logo_rew.png);
+	background-repeat:no-repeat;
+	background-position: 50% 50%;
+}
+
+
+.down_mask {
+	width:480px;
+	height:240px;
+	overflow:hidden;
+	background:#212121;
+	position:relative;
+	top:680px;
+	z-index:5;
+}
+
+
+.review .review-item {
+	text-align: center;	
+	color: #fff;
+	width: 400px;
+	padding: 0 40px;
+}
+.review .review-item img {
+	margin: 0 auto;
+}
+.review .review-item h2 {
+	text-align: left;
+	font-family: 'Exo2-ThinCondensed';
+	font-size: 33px;
+	line-height: 35px;
+  margin: 10px 0 100px 0;
+}
+.review .review-item h3 {
+	text-align: left;
+	font-family: 'Exo2-RegularCondensed';
+	font-size: 25px;
+	margin: 0;
+}

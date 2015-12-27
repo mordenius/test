@@ -1,0 +1,138 @@
+{
+	"1": {
+		"name": "Andrey Shybaev",
+		"title": "Chief Executive Officer",
+		"tasks": {
+			"1": {
+				"group": "ОФИС",
+				"name": "Офисные нужды"			
+			},
+			"2": {
+				"group": "ОФИС",
+				"name": "Запрос на рабочие инструменты"			
+			},
+			"3": {
+				"group": "ОФИС",
+				"name": "Коменсация расходов"			
+			},
+			"3": {
+				"group": "Клиенты в работе",
+				"name": "ГПН"			
+			},
+			"3": {
+				"group": "Webinars",
+				"name": "Утверждение визуализации"			
+			}
+		}
+	},
+	"2": {
+		"name": "Evgeniy Khrapeychuk",
+		"title": "Chief Technical Officer",
+		"tasks": {
+		}
+	},
+	"3": {
+		"name": "Oleg Shybaiev",
+		"title": "Chief Creative Officer",
+		"tasks": {
+			"1": {
+				"group": "Сайт",
+				"name": "Слайдер"
+			},
+			"2": {
+				"group": "Клиенты в работе",
+				"name": "ТакиБуло"
+			},
+			"3": {
+				"group": "Клиенты в работе",
+				"name": "Тирасполь"
+			},
+			"4": {
+				"group": "Клиенты в работе",
+				"name": "Обслуживание Мамин Хлеб"
+			},
+			"5": {
+				"group": "Клиенты в работе",
+				"name": "BigBurger"
+			},
+			"6": {
+				"group": "Статьи",
+				"name": "Подобрать графический материал"
+			},
+			"7": {
+				"group": "Статьи",
+				"name": "Подобрать графический материал"
+			}
+		}
+	},
+	"4": {
+		"name": "Alexandr Petrov",
+		"title": "Chief Software Developer",
+		"tasks": {
+			"1": {
+				"group": "Сайт",
+				"name": "Обсуждение плана действий по сайту"
+			},
+			"2": {
+				"group": "Сайт",
+				"name": "Адаптация под различные устройства"			
+			}
+		}
+	},
+	"5": {
+		"name": "Anna Gorbulenko",
+		"title": "Marketing Specialist",
+		"tasks": {
+			"1": {
+				"group": "Презентации KVINTO",
+				"name": "Общая презентация KVINTO"
+			},
+			"2": {
+				"group": "Сайт",
+				"name": "Верная лингвистический подача информации"			
+			},
+			"3": {
+				"group": "Статьи",
+				"name": "Публикация статьи Решение Digital Menu Board"			
+			},
+			"4": {
+				"group": "Статьи",
+				"name": "Перевод англ"			
+			},
+			"5": {
+				"group": "Клиенты в работе",
+				"name": "Обслуживание BurgerGrill"			
+			},
+			"6": {
+				"group": "Webinars",
+				"name": "webinar AOpen"			
+			}
+		}
+	},
+	"6": {
+		"name": "Andrey Nazdrin",
+		"title": "Sales Manager",
+		"tasks": {
+		}
+	},
+	"7": {
+		"name": "Alexey Nuzhny",
+		"title": "Motion Designer",
+		"tasks": {
+		}
+	},
+	"8": {
+		"name": "Konstantin Orashich",
+		"title": "Software Developer",
+		"tasks": {
+			"1": {
+				"group": "Интертоп",
+				"name": "Изменение демонстрационного макета Интертоп"
+			},
+			"2": {
+				"group": "Сайт",
+				"name": "Разбор скрипта сайта компании"			
+			}
+		}
+	}
+}

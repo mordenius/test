@@ -1,0 +1,7 @@
+  ##
+  # Uncomment the following lines and replace "domain.com" with your domain
+  # name to redirect requests without "www" to the correct domain. 
+  ##
+  RewriteCond %{HTTP_HOST} ^www\.kvinto\.com\.ua [NC]
+  RedirectMatch (/reconstruct/*) http://kvinto.com.ua/
+  RewriteRule (.*) http://kvinto.com.ua/$1 [R=301,L]

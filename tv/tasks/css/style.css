@@ -1,0 +1,75 @@
+body {
+	font-family: 'Exo 2', sans-serif;
+	background-color: #212121;
+	margin: 0;
+	padding: 0;
+	background: url(../img/bg.jpg) no-repeat;
+	color: #fff;
+	height: 880px;
+	overflow: hidden;
+}
+h1 {
+	font-size: 32px;
+}
+.wrap-first-line, .wrap-second-line, .wrap-third-line {
+	height: 880px;
+	float: left;
+	width: 640px;
+	position:absolute;
+	top: 0;
+}
+body > div:nth-child(2), body > div:nth-child(5), body > div:nth-child(8){
+	left: 640px;
+}
+body > div:nth-child(3), body > div:nth-child(6), body > div:nth-child(9){
+	left: 1280px;
+}
+.wrap-second-line, .wrap-third-line {
+	opacity: 0;
+}
+.name {
+	height: 112px;
+	color: #fff;
+}
+.name img {
+	float: left;
+	  margin: -10px 20px 0 20px;
+}
+.name h1 {
+	margin: 35px 0 0 0;
+}
+.name h2 {
+	margin: 0px;
+}
+.list {
+	overflow: hidden;
+	height: 725px;
+	padding: 40px 40px 0 40px;
+}
+.tasks-list {
+	margin: 0 0 50px 0;
+}
+.tasks-list div:nth-child(1) {
+	float: left;
+	width: 75px;
+	font-size: 45px;
+}
+.tasks-list div:nth-child(2) {
+	float: left;
+	width: 485px;
+}
+.tasks-list div:nth-child(2) h2 {
+	margin: 0;
+	font-size: 30px;
+	color: rgb(189, 95, 255);
+}
+.tasks-list div:nth-child(2) h3 {
+	margin: 0;
+	font-size: 45px;
+}
+.clearfix {
+	clear: both;
+}
+.none {
+	display: none;
+}
